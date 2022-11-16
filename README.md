@@ -15,7 +15,7 @@ Search repo managed with [ghq](https://github.com/x-motemen/ghq) with peco when 
 
 1. Add a zplug definition for zsh-peco-history to your `.zshrc`:
 ```sh
-zplug "jimeh/zsh-peco-history", defer:2
+zplug "maediy/zsh-peco-ghq", defer:2
 ```
 
 2. Start a new terminal session.
